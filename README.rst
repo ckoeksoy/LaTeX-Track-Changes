@@ -11,15 +11,15 @@ This Sublime Text 2 package provides snippets useful while using the LaTeX Track
 All track changes commands are supported:
 
 
-\note[editor]{The note}
+\\note[editor]{The note}
 
-\annote[editor]{Text to annotate}{The note}
+\\annote[editor]{Text to annotate}{The note}
 
-\add[editor]{Text to add}
+\\add[editor]{Text to add}
 
-\remove[editor]{Text to remove}
+\\remove[editor]{Text to remove}
 
-\change[editor]{Text to remove}{Text to add} 
+\\change[editor]{Text to remove}{Text to add} 
 
 
 
